@@ -18,3 +18,5 @@ $ ./main.py
 
 It works on linux well, but I don't know if it will work on Windows or Mac. I thought it will work in Windows too, because I use
 the same code from [this project](https://github.com/9d4/blink-kboard/tree/main/kboard).
+
+You can customize it as needed.
